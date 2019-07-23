@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "postcss src/css/tailwind.css -o build/css/tailwind__main.css",
+    "watch": "postcss src/css/tailwind.css -o build/css/tailwind__main.css --watch"
   },
   "author": "",
   "license": "ISC",
