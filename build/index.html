@@ -18,12 +18,12 @@
  <title>HEX CONVERTER</title>
 </head>
 
-<body class="font-body h-screen w-full">
+<body class="font-body h-screen w-full overflow-hidden">
  <!-- START OF NAV -->
- <nav class="flex items-center justify-between flex-wrap p-6 bg-vistaBlue text-center">
+ <nav class="flex items-center justify-between flex-wrap p-6 bg-vistaBlue text-center h-32">
   <div class="flex items-center flex-shrink-0 mr-6 w-full justify-center text-white">
-   <i class="fab fa-slack-hash mr-2"></i>
-   <h1 class="font-semibold text-3xl">HEX CONVERTER</h1>
+   <i class="fab fa-slack-hash mr-2 text-4xl"></i>
+   <h1 class="font-semibold text-5xl">HEX CONVERTER</h1>
   </div>
  </nav>
  <!-- START OF INPUT -->
@@ -31,15 +31,22 @@
  <div class="container mx-auto h-full flex justify-center items-center w-full">
   <div class="w-full">
    <div>
-    <input
-     class="bg-transparent py-1 px-1 border-b-2 border-vistaBlue block focus:outline-none w-full appearance-none text-4xl text-vistaBlue"
+    <input class="bg-transparent py-1 px-1 block focus:outline-none w-full appearance-none text-6xl text-vistaBlue"
      type="text" placeholder="Enter your text..." autofocus>
    </div>
    <div class="mt-4 px-1">
-    <p class="text-2xl">Your Hex Code is: <code class="font-heading text-3xl text-wildStrawberry">#33333</code></p>
+    <p class="text-2xl">Your Hex Code is <code class="font-heading text-3xl text-wildStrawberry"></code></p>
    </div>
   </div>
  </div>
+ </div>
+
+ <div class="readMore w-full h-20 bg-gray-800 flex items-center text-white sticky">
+  <p class="px-4">Read more about hexadecimal <a href="https://en.wikipedia.org/wiki/Hexadecimal"
+    class=" font-heading text-wildStrawberry pr-2" target="_blank">here</a>
+   Inspired by <a href="https://www.codenewbie.org/basecs" target="_blank" class="font-heading text-wildStrawberry">this
+    Podcast</a>
+  </p>
  </div>
 
 </body>
