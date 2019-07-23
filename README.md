@@ -15,6 +15,7 @@
 
 * Twitter: [@bobbyolejnik](https://twitter.com/bobbyolejnik)
 * Github: [@robifis](https://github.com/robifis)
+* Instagram [@bobbyolejnik](https://instagram.com/bobbyolejnik)
 
 ## INSPIRATION
 
