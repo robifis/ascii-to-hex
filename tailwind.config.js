@@ -10,10 +10,10 @@ module.exports = {
         vistaBlue: '#779BE7',
         richLavender: '#A480CF',
         skyMagenta: '#D264B6',
-        wildStrawberry: '#FF499E'
-      }
-    }
+        wildStrawberry: '#FF499E',
+      },
+    },
   },
   variants: {},
-  plugins: []
-}
+  plugins: [],
+};
