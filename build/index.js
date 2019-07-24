@@ -18,11 +18,12 @@ function insertData(data) {
 // Get the input data
 function convertHex() {
   const inputValue = document.querySelector('.input').value;
+  inputValue.trim();
   // Check if input is integer or Text
   if (isNaN(inputValue)) {
     // run function if it's Text
     const textArray = [];
-    Array.from(inputValue).forEach(letter => {
+    Array.from(inputValue.trim()).forEach(letter => {
       const hex = letter.charCodeAt().toString(16);
       textArray.push(hex);
     });
