@@ -19,7 +19,7 @@
 
 ## INSPIRATION
 
-The inspiration for this project came after having listened to the <a href="https://www.codenewbie.org/basecs">Base CS Podcast(S1 E4)</a>.
+The inspiration for this project came after having listened to the <a href="https://www.codenewbie.org/basecs" target="_blank">Base CS Podcast(S1 E4)</a>.
 Both [@saronyitbarek](https://twitter.com/saronyitbarek) and [@vaidehijoshi](https://twitter.com/vaidehijoshi) do an amazing Job of
 explaining the basics of a Computer Science Degree. Some of the topics covered are Binary, Stacks, Nodes, Trees and, of course, Hex Codes.
 Ever since that episode I have been fascinated by what makes the number 16 so special.

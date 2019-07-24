@@ -3,3 +3,6 @@
 // 2) Create Int to HEX Output
 // 3) Validate Inputs!
 // 4) Add Animations
+
+const x = 100;
+console.log(x);

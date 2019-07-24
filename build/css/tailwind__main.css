@@ -3881,6 +3881,46 @@ video {
   height: 100vh;
 }
 
+.h-10vh{
+  height: 10vh;
+}
+
+.h-20vh{
+  height: 20vh;
+}
+
+.h-30vh{
+  height: 30vh;
+}
+
+.h-40vh{
+  height: 40vh;
+}
+
+.h-50vh{
+  height: 50vh;
+}
+
+.h-60vh{
+  height: 60vh;
+}
+
+.h-70vh{
+  height: 70vh;
+}
+
+.h-80vh{
+  height: 80vh;
+}
+
+.h-90vh{
+  height: 90vh;
+}
+
+.h-100vh{
+  height: 100vh;
+}
+
 .leading-none{
   line-height: 1;
 }
@@ -10979,6 +11019,46 @@ video {
   }
 
   .sm\:h-screen{
+    height: 100vh;
+  }
+
+  .sm\:h-10vh{
+    height: 10vh;
+  }
+
+  .sm\:h-20vh{
+    height: 20vh;
+  }
+
+  .sm\:h-30vh{
+    height: 30vh;
+  }
+
+  .sm\:h-40vh{
+    height: 40vh;
+  }
+
+  .sm\:h-50vh{
+    height: 50vh;
+  }
+
+  .sm\:h-60vh{
+    height: 60vh;
+  }
+
+  .sm\:h-70vh{
+    height: 70vh;
+  }
+
+  .sm\:h-80vh{
+    height: 80vh;
+  }
+
+  .sm\:h-90vh{
+    height: 90vh;
+  }
+
+  .sm\:h-100vh{
     height: 100vh;
   }
 
@@ -18084,6 +18164,46 @@ video {
     height: 100vh;
   }
 
+  .md\:h-10vh{
+    height: 10vh;
+  }
+
+  .md\:h-20vh{
+    height: 20vh;
+  }
+
+  .md\:h-30vh{
+    height: 30vh;
+  }
+
+  .md\:h-40vh{
+    height: 40vh;
+  }
+
+  .md\:h-50vh{
+    height: 50vh;
+  }
+
+  .md\:h-60vh{
+    height: 60vh;
+  }
+
+  .md\:h-70vh{
+    height: 70vh;
+  }
+
+  .md\:h-80vh{
+    height: 80vh;
+  }
+
+  .md\:h-90vh{
+    height: 90vh;
+  }
+
+  .md\:h-100vh{
+    height: 100vh;
+  }
+
   .md\:leading-none{
     line-height: 1;
   }
@@ -25186,6 +25306,46 @@ video {
     height: 100vh;
   }
 
+  .lg\:h-10vh{
+    height: 10vh;
+  }
+
+  .lg\:h-20vh{
+    height: 20vh;
+  }
+
+  .lg\:h-30vh{
+    height: 30vh;
+  }
+
+  .lg\:h-40vh{
+    height: 40vh;
+  }
+
+  .lg\:h-50vh{
+    height: 50vh;
+  }
+
+  .lg\:h-60vh{
+    height: 60vh;
+  }
+
+  .lg\:h-70vh{
+    height: 70vh;
+  }
+
+  .lg\:h-80vh{
+    height: 80vh;
+  }
+
+  .lg\:h-90vh{
+    height: 90vh;
+  }
+
+  .lg\:h-100vh{
+    height: 100vh;
+  }
+
   .lg\:leading-none{
     line-height: 1;
   }
@@ -32285,6 +32445,46 @@ video {
   }
 
   .xl\:h-screen{
+    height: 100vh;
+  }
+
+  .xl\:h-10vh{
+    height: 10vh;
+  }
+
+  .xl\:h-20vh{
+    height: 20vh;
+  }
+
+  .xl\:h-30vh{
+    height: 30vh;
+  }
+
+  .xl\:h-40vh{
+    height: 40vh;
+  }
+
+  .xl\:h-50vh{
+    height: 50vh;
+  }
+
+  .xl\:h-60vh{
+    height: 60vh;
+  }
+
+  .xl\:h-70vh{
+    height: 70vh;
+  }
+
+  .xl\:h-80vh{
+    height: 80vh;
+  }
+
+  .xl\:h-90vh{
+    height: 90vh;
+  }
+
+  .xl\:h-100vh{
     height: 100vh;
   }
 
